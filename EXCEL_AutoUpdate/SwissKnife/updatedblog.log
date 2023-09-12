@@ -42337,3 +42337,21 @@ Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
 /home/targets/anaconda3/bin/python: can't open file '/home/targets/autocommit2/EXCEL_AutoUpdate/SwissKnife/updatedb.py': [Errno 2] No such file or directory
+id:2623244
+                timenow normalname  ...  pct_value       id
+0   2023-09-12 21:25:05       微型道瓊  ...   0.617088  2623245
+1   2023-09-12 21:25:10        微型S  ...   0.757534  2623246
+2   2023-09-12 21:25:15     微型那斯達克  ...   0.845048  2623247
+3   2023-09-12 21:25:19      大台指期貨  ...  -0.289628  2623248
+4   2023-09-12 21:25:24       電子期貨  ...  -0.333210  2623249
+..                  ...        ...  ...        ...      ...
+99  2023-09-12 21:34:42         白金  ...   0.420587  2623344
+100 2023-09-12 21:34:47          鈀  ...  -0.081967  2623345
+101 2023-09-12 21:34:51         玉米  ...  -0.308642  2623346
+102 2023-09-12 21:34:56         黃豆  ...  -0.839416  2623347
+103 2023-09-12 21:35:01         小麥  ...  -1.069748  2623348
+
+[104 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

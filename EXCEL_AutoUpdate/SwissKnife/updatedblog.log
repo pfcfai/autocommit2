@@ -42336,3 +42336,4 @@ id:2623193
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+/home/targets/anaconda3/bin/python: can't open file '/home/targets/autocommit2/EXCEL_AutoUpdate/SwissKnife/updatedb.py': [Errno 2] No such file or directory

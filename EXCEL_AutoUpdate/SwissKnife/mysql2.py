@@ -53,7 +53,7 @@ try:
             if isinstance(finaldict[key][0], pd.Timestamp):
                 finaldict[key] = [str(ts) for ts in finaldict[key]]
         import json
-        with open(f'/home/targets/autocommit/EXCEL_AutoUpdate/SwissKnife/{code}.json', 'w') as json_file:
+        with open(f'/home/targets/autocommit2/EXCEL_AutoUpdate/SwissKnife/{code}.json', 'w') as json_file:
             json.dump(finaldict, json_file)
         print(f'export {code} success')
 except Exception as e:

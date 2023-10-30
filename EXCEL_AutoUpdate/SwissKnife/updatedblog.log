@@ -1816,3 +1816,21 @@ id:2968889
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2968998
+               timenow normalname  recent_close  ... symbol_code pct_value       id
+0  2023-10-30 18:05:04        高級銅        3.6895  ...          HG  1.276421  2968999
+1  2023-10-30 18:05:05         白銀       23.3500  ...          SI  0.473322  2969000
+2  2023-10-30 18:05:08         白金      923.8000  ...          PL  1.293860  2969001
+3  2023-10-30 18:05:09        高級銅        3.6895  ...          HG  1.276421  2969002
+4  2023-10-30 18:05:12          鈀     1144.0000  ...          PA  1.015453  2969003
+..                 ...        ...           ...  ...         ...       ...      ...
+73 2023-10-30 18:09:29    富時中國A50    12071.0000  ...          CN  0.382536  2969072
+74 2023-10-30 18:09:44      小法蘭克福    14859.0000  ...         DXM  1.116026  2969073
+75 2023-10-30 18:09:49       微型道瓊    32676.0000  ...         MYM  0.569388  2969074
+76 2023-10-30 18:09:54        微型S     4164.5000  ...         MES  0.676901  2969075
+77 2023-10-30 18:09:59     微型那斯達克    14373.5000  ...         MNQ  0.718240  2969076
+
+[78 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

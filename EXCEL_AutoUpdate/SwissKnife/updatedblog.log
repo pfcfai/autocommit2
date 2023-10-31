@@ -12909,3 +12909,11 @@ id:2978558
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2978601
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-10-31 15:03:51       電子期貨        785.35  ...        FITE  0.242517  2978602
+
+[1 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

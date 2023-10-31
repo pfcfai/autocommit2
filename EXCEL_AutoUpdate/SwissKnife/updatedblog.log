@@ -11954,3 +11954,11 @@ id:2977755
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2977758
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-10-31 12:48:53      小法蘭克福       14777.0  ...         DXM  -0.37082  2977759
+
+[1 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

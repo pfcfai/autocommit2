@@ -11976,3 +11976,20 @@ Index: []
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2977759
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-10-31 13:04:34      大台指期貨    16195.0000  ...        FITX  0.235192  2977760
+1 2023-10-31 13:06:42      小恆生指數    17383.0000  ...         MHI -0.503692  2977761
+2 2023-10-31 13:06:37      美國十年債      106.1250  ...          TY  0.029455  2977762
+3 2023-10-31 13:07:31      大台指期貨    16052.0000  ...        FITX -0.649873  2977763
+4 2023-10-31 13:07:06         澳幣        0.6354  ...          AD -0.477719  2977764
+5 2023-10-31 13:07:32         歐元        1.0615  ...          EC -0.202134  2977765
+6 2023-10-31 13:08:14         日幣     6712.0000  ...          JY -0.724745  2977766
+7 2023-10-31 13:07:56         英磅        1.2145  ...          BP -0.230017  2977767
+8 2023-10-31 13:08:08       微型道瓊    32988.0000  ...         MYM -0.099936  2977768
+9 2023-10-31 13:09:16     歐元債十年期      128.8800  ...        FGBL  0.108746  2977769
+
+[10 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

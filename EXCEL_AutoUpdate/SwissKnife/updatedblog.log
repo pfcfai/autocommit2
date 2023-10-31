@@ -12017,3 +12017,21 @@ id:2977769
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2977786
+               timenow normalname  recent_close  ... symbol_code pct_value       id
+0  2023-10-31 13:15:41        美元指     106.23000  ...          DX  0.269008  2977787
+1  2023-10-31 13:15:55     歐元債十年期     128.91000  ...        FGBL  0.132049  2977788
+2  2023-10-31 13:16:01     微型那斯達克   14329.50000  ...         MNQ -0.572440  2977789
+3  2023-10-31 13:16:02        瑞法郎       1.11420  ...          SF -0.026918  2977790
+4  2023-10-31 13:16:09       電子期貨     782.80000  ...        FITE -1.360887  2977791
+..                 ...        ...           ...  ...         ...       ...      ...
+84 2023-10-31 13:19:21         日幣    6711.00000  ...          JY -0.739536  2977871
+85 2023-10-31 13:19:35        瑞法郎       1.11415  ...          SF -0.031404  2977872
+86 2023-10-31 13:19:35       日經指數   30755.00000  ...         SSI  0.179153  2977873
+87 2023-10-31 13:19:40    富時中國A50   11931.00000  ...          CN -0.781705  2977874
+88 2023-10-31 13:19:47      小法蘭克福   14779.00000  ...         DXM -0.357335  2977875
+
+[89 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

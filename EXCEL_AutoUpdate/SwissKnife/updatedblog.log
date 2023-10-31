@@ -12960,3 +12960,11 @@ Index: []
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2978603
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-10-31 15:07:02         歐元       1.06305  ...          EC  -0.05641  2978604
+
+[1 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

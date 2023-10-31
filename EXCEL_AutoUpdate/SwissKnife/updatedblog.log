@@ -11849,3 +11849,12 @@ id:2977736
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2977751
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-10-31 11:38:35          鈀      1134.000  ...          PA -0.307692  2977752
+1 2023-10-31 11:39:19         英磅         1.217  ...          BP -0.024645  2977753
+
+[2 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

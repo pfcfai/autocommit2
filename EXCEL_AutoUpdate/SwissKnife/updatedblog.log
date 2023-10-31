@@ -11865,3 +11865,11 @@ Index: []
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2977753
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-10-31 11:40:34       日經指數       30750.0  ...         SSI  0.162866  2977754
+
+[1 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

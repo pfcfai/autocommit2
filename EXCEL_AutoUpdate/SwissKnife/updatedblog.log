@@ -11944,3 +11944,13 @@ Index: []
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2977755
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-10-31 12:46:25        美元指     106.26500  ...          DX  0.302044  2977756
+1 2023-10-31 12:46:35      小恆生指數   17390.00000  ...         MHI -0.463625  2977757
+2 2023-10-31 12:48:19         加幣       0.72245  ...          CD -0.179620  2977758
+
+[3 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

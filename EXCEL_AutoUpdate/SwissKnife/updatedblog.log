@@ -20638,3 +20638,13 @@ id:2984776
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2984829
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-11-01 11:20:42    富時中國A50       12085.0  ...          CN  0.733517  2984830
+1 2023-11-01 11:22:17       電子期貨         795.8  ...        FITE  0.277218  2984831
+2 2023-11-01 11:22:20      小法蘭克福       14815.0  ...         DXM -0.114617  2984832
+
+[3 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

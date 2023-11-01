@@ -20648,3 +20648,16 @@ id:2984829
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2984832
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-11-01 11:24:46      大台指期貨      16163.00  ...        FITX  0.037136  2984833
+1 2023-11-01 11:25:32     微型那斯達克      14411.50  ...         MNQ -0.003469  2984834
+2 2023-11-01 11:26:12         棉花         81.23  ...          CT  0.000000  2984835
+3 2023-11-01 11:26:21      小恆生指數      17553.00  ...         MHI  0.469349  2984836
+4 2023-11-01 11:26:41    富時中國A50      12051.00  ...          CN  0.216216  2984837
+5 2023-11-01 11:29:07       日經指數      31490.00  ...         SSI  2.074554  2984838
+
+[6 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

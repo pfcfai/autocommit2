@@ -20691,3 +20691,12 @@ id:2984838
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2984854
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-11-01 11:37:03        燃料油        2.9037  ...          HO  0.124134  2984855
+1 2023-11-01 11:38:07         白銀       23.4250  ...          SI -0.127904  2984856
+
+[2 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

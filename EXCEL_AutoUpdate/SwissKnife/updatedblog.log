@@ -24131,3 +24131,21 @@ id:2988706
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2988809
+                timenow normalname  ...  pct_value       id
+0   2023-11-01 19:00:05         英磅  ...  -0.115169  2988810
+1   2023-11-01 19:00:09        微型S  ...  -0.130836  2988811
+2   2023-11-01 19:00:10         加幣  ...  -0.048527  2988812
+3   2023-11-01 19:00:14     微型那斯達克  ...  -0.083032  2988813
+4   2023-11-01 19:00:15         歐元  ...  -0.254801  2988814
+..                  ...        ...  ...        ...      ...
+103 2023-11-01 19:04:52         加幣  ...  -0.020797  2988913
+104 2023-11-01 19:04:56         白金  ...  -1.261261  2988914
+105 2023-11-01 19:04:57         歐元  ...  -0.250083  2988915
+106 2023-11-01 19:05:01          鈀  ...   0.176835  2988916
+107 2023-11-01 19:05:03         日幣  ...   0.308712  2988917
+
+[108 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []

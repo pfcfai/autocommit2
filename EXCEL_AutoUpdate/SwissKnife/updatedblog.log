@@ -32710,3 +32710,11 @@ id:2996841
 Empty DataFrame
 Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
 Index: []
+id:2996934
+              timenow normalname  recent_close  ... symbol_code pct_value       id
+0 2023-11-02 17:56:21       微型道瓊       33461.0  ...         MYM  0.314786  2996935
+
+[1 rows x 10 columns]
+Empty DataFrame
+Columns: [timenow, normalname, recent_close, change, pct_per, currency, margin, symbol_code, pct_value, id]
+Index: []
